@@ -1,0 +1,10 @@
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\bin\Debug\PostcodeLookup.exe.config
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\bin\Debug\PostcodeLookup.exe
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\bin\Debug\PostcodeLookup.pdb
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\obj\Debug\PostcodeLookup.csprojResolveAssemblyReference.cache
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\obj\Debug\PostcodeLookup.Properties.Resources.resources
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\obj\Debug\PostcodeLookup.csproj.GenerateResource.Cache
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\obj\Debug\PostcodeLookup.csproj.CoreCompileInputs.cache
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\obj\Debug\PostcodeLookup.exe
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\obj\Debug\PostcodeLookup.pdb
+C:\Users\lukie\Documents\Visual Studio 2017\Projects\PostcodeLookup\PostcodeLookup\obj\Debug\PostcodeLookup.LookupDialog.resources
