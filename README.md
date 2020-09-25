@@ -1,1 +1,1 @@
-This is a basic c# applet used to take a user's input and decide on edlivery methods base on the postcode entered. It is a quick and dirty tool that can be utilised by small companies to save time looking up delivery information for each customer.
+This is a basic c# applet used to take a user's input and decide on delivery methods base on the postcode entered. It is a quick and dirty tool that can be utilised by small companies to save time looking up delivery information for each customer.
